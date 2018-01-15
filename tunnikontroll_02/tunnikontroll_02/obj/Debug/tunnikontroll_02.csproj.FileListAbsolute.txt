@@ -1,0 +1,7 @@
+C:\Users\TEMP\source\repos\tunnikontroll_02\tunnikontroll_02\bin\Debug\tunnikontroll_02.exe.config
+C:\Users\TEMP\source\repos\tunnikontroll_02\tunnikontroll_02\bin\Debug\tunnikontroll_02.exe
+C:\Users\TEMP\source\repos\tunnikontroll_02\tunnikontroll_02\bin\Debug\tunnikontroll_02.pdb
+C:\Users\TEMP\source\repos\tunnikontroll_02\tunnikontroll_02\obj\Debug\tunnikontroll_02.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\source\repos\tunnikontroll_02\tunnikontroll_02\obj\Debug\tunnikontroll_02.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\source\repos\tunnikontroll_02\tunnikontroll_02\obj\Debug\tunnikontroll_02.exe
+C:\Users\TEMP\source\repos\tunnikontroll_02\tunnikontroll_02\obj\Debug\tunnikontroll_02.pdb
